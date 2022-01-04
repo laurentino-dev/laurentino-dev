@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Laurentino</h1>
 <h3>A fullstack developer & bitcoin enthusiast from Lisbon</h3>
 
-- I’m currently working on [Talkdesk's Web Strategy Team as development manager](talkdesk.com)
+- I’m currently working on [Talkdesk](https://www.talkdesk.com) Web Strategy Team as development manager
 
 - How to reach me **talk@laurentino.dev**
 

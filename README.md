@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Laurentino</h1>
-<h3>A fullstack developer & bitcoin enthusiast from Lisbon</h3>
+<h3>A fullstack developer & bitcoin enthusiast from Bissau</h3>
 
-- I’m currently working on [Talkdesk](https://www.talkdesk.com) Web Strategy Team as development manager
+- I’m currently Own an Marketing Agency called [Nô Kunsi Digital](https://www.nokunsidigital.com)
 
 - How to reach me **talk@laurentino.dev**
 
